@@ -17,5 +17,5 @@ function purchase_course(){
 }
 
 function popup_login_signup(){
-    window.alert("This feature is under development now");
+    window.alert("This feature is under development ");
 }
