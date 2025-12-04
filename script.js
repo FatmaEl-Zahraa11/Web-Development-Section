@@ -15,3 +15,7 @@ function popup(){
 function purchase_course(){
     window.alert("You have successfully purchase this course");
 }
+
+function popup_login_signup(){
+    window.alert("This feature is under development now");
+}

@@ -15,7 +15,11 @@ header nav ul li{
     font-weight: bold;
     cursor: pointer;
 }
-
+.ul2{
+    margin-left: auto;
+    display: flex;
+    
+}
 
 header h1{
     text-align: center;
