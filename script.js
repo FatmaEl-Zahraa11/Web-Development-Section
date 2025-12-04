@@ -8,7 +8,9 @@ function js_description() {
     window.location.href = "js-desc.html";
 }
 
-
+function popup(){
+    window.alert("you are in this page😂😂");
+}
 
 function purchase_course(){
     window.alert("You have successfully purchase this course");
